@@ -2,12 +2,12 @@
 
 ###
 
-<h3 align="left">I'm a Front End Developer</h3>
+<h3 align="left">I'm a Flutter Developer and Data analyst</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://img.icons8.com/?size=48&id=pCvIfmctRaY8&format=png)" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
