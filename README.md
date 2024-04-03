@@ -6,13 +6,13 @@
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
-
-###
-
 <div align="center">
   <img height="200" src="https://apexx77.github.io/website/images/pro.gif"  />
 </div>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
