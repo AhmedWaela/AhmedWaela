@@ -2,7 +2,8 @@
 
 ###
 
-<h2 align="left">I'm Flutter developer and Data Analyst</h2>
+<h2 align="left">I'm Flutter developer
+</h2>
 
 ###
 
